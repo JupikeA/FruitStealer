@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit Stealer", "Assembly-CSharp.csproj", "{F87BE5C6-07ED-9CAE-07C1-DF063A9C6706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit Stealer", "Assembly-CSharp-firstpass.csproj", "{F8A08621-BEA0-C182-D6DF-846E02B86949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit Stealer", "Assembly-CSharp-Editor.csproj", "{A0265091-74C2-3609-1EF9-575AA31EFA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87BE5C6-07ED-9CAE-07C1-DF063A9C6706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87BE5C6-07ED-9CAE-07C1-DF063A9C6706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87BE5C6-07ED-9CAE-07C1-DF063A9C6706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87BE5C6-07ED-9CAE-07C1-DF063A9C6706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A08621-BEA0-C182-D6DF-846E02B86949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A08621-BEA0-C182-D6DF-846E02B86949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A08621-BEA0-C182-D6DF-846E02B86949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A08621-BEA0-C182-D6DF-846E02B86949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0265091-74C2-3609-1EF9-575AA31EFA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0265091-74C2-3609-1EF9-575AA31EFA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0265091-74C2-3609-1EF9-575AA31EFA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0265091-74C2-3609-1EF9-575AA31EFA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
